@@ -3,4 +3,4 @@ venv/*
 chroma_store/
 .env
 __pycache__/
-
+open-chat.py
